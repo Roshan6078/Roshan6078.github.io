@@ -1,7 +1,7 @@
 # Finance Expert
 
 
-Money management is always complicated and most of the time you get to wonder where did all of your money go, luckily, our simple personal Finance Expert web app can help you by easily managing your money and keeping track of your expenses. You can stay on top of your money anytime, anywhere. TrackerX helps you track your financial activity efficiently because its simple design makes it lightweight, straightforward and very easy to use! 
+Money management is always complicated and most of the time you get to wonder where did all of your money go, luckily, our simple personal Finance Expert web app can help you by easily managing your money and keeping track of your expenses. You can stay on top of your money anytime, anywhere. Finance Expert helps you track your financial activity efficiently because its simple design makes it lightweight, straightforward and very easy to use! 
 
 ---
 
