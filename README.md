@@ -1,6 +1,7 @@
 # Finance Manganer 
 
-Money management is always complicated and most of the time you get to wonder where did all of your money go, luckily, our simple personal TrackerX web app can help you by easily managing your money and keeping track of your expenses. You can stay on top of your money anytime, anywhere. TrackerX helps you track your financial activity efficiently because its simple design makes it lightweight, straightforward and very easy to use! 
+
+Money management is always complicated and most of the time you get to wonder where did all of your money go, luckily, our simple personal Finance manager web app can help you by easily managing your money and keeping track of your expenses. You can stay on top of your money anytime, anywhere. TrackerX helps you track your financial activity efficiently because its simple design makes it lightweight, straightforward and very easy to use! 
 
 ---
 
@@ -32,7 +33,7 @@ Money management is always complicated and most of the time you get to wonder wh
 > TrackerX can be used for Free, without ads and no feature restrictions.
 > ```
 
-# Why TrackerX?
+# Why Finance Manager?
 
 Becasuse wherever you are, just a couple of taps will save your expenses, and because it’s done in two clicks, you don’t need to fill anything except the amount and some details.
  
